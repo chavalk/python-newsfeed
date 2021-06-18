@@ -26,6 +26,18 @@ https://just-tech-news-1.herokuapp.com/
 
 ## What technologies were used with the project
 
+* Python
+* Flask
+* SQLAlchemy
+* PyMySQL
+* bcrypt
+* Gunicorn
+* HMTL
+* JavaScript
+* CSS
+* Heroku
+* MySQL
+
 ## Where users can get help with your project
 
 My GitHub username is: chavalk
