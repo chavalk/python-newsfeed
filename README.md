@@ -10,6 +10,8 @@ An application built to allow users to register/login and post tech articles for
 
 The project allows users to register and login to be able to post articles and to comment and vote on other articles. All articles are available to any visitor but in order to interact with the articles and to post articles, a user must be registered and logged in. Below is a GIF showing the navigation of the application.
 
+![just-tech-news](./images/just-tech-news.gif)
+
 ## Why is the project useful
 
 The project allows users to share tech news articles in order to have a centralized application where they can just focus on tech news.
