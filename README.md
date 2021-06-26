@@ -1,4 +1,4 @@
-## Just Tech News
+# Just Tech News
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
