@@ -34,7 +34,7 @@ https://just-tech-news-1.herokuapp.com/
 * PyMySQL
 * bcrypt
 * Gunicorn
-* HMTL
+* HTML
 * JavaScript
 * CSS
 * Heroku
